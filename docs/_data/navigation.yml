@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Games
+  link: /games.html
+- name: News
+  link: /news.html
+- name: Privacy Policy
+  link: /privacy.html

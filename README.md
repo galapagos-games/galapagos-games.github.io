@@ -1,1 +1,1 @@
-"# galapagos-games.github.io" 
+Visit https://galapagos.games to view this site
